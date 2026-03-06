@@ -1,2 +1,1 @@
-# postman-collection-reviews
-Integration Team Configuration Reviews
+Integration Team Release Reviews
